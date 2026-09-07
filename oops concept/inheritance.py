@@ -18,3 +18,4 @@ c = Child()
 c.skills()
 c.talent()
 c.study()
+# output:
