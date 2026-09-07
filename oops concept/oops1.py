@@ -8,8 +8,11 @@ class Animal:
 
 class Dog(Animal):           #inheritance          
     def sound(self):
+
         print(self.name, "barks")
 
 
 d = Dog("Tommy")
 d.sound()
+
+# Output: Tommy barks
